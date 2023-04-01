@@ -1,6 +1,6 @@
-# Financial Products
+# Financial Products (using open source data)
 
-This task is an Exploratory Data Analysis of some financial products and their performance with consumers
+This task is an Exploratory Data Analysis of customer's complaints on some financial products in the US.
 
 In this EDA, we'll be treating three issues basically;
 
